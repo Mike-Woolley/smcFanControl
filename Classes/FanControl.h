@@ -112,12 +112,10 @@
 
 -(void)terminate:(id)sender;
 
-- (IBAction)paypal:(id)sender;
 - (IBAction)visitHomepage:(id)sender;
 
 - (IBAction)closePreferences:(id)sender;
 - (IBAction)savePreferences:(id)sender;
-- (IBAction)updateCheck:(id)sender;
 - (IBAction)resetSettings:(id)sender;
 
 - (void)init_statusitem;
